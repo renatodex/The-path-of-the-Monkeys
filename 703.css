@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* geral */
+*{border:0; padding:0; margin:0;font-size: 100%; font: inherit;	vertical-align:central; list-style:none;}
+body{background-color:#000000; color:#FFFFFF;}
+
+/* intro */
+#intro{ background:url(img/703-bg-intro.jpg) no-repeat center center; width:954px; text-align:center;}
+#intro a.play{ background:url(img/703-play.png) no-repeat 0 0; width:64px; height:64px; text-indent:-99999px; overflow:hidden; margin:35px 0 0 145px; display:block;}
+#contend-intro{ width:333px; position:absolute; left:50%; top:50%; margin-left:-166px; margin-top:-143px;}
+
+/* conteudo */
+.contend{ float:left; width:2985px; position:relative;}
+.contend ul{margin-left:800px;}
+.contend ul li{ float:left; text-indent:-9999px; overflow:hidden;}
+.desc{position:absolute; top:50%; margin-top:-171px; width:244px; height:278px; background:url(img/703-bg-descritivo.png) no-repeat 0 0; font:12px Georgia, Times; color:#fff; padding:32px; right:380px;}
+.desc h1{ font-size:22px; color:#FFC;}
+.desc span{ margin-bottom:10px; display:block; background:url(img/703-separador.png) no-repeat center center; height:25px; width:242px; text-indent:-9999px; overflow:hidden;}
+.desc a.play{color:#FC6; text-decoration:none; font-size:14px; margin-top:10px; display:block; text-align:right;}
+
+/* rodape */
+#rodape{position:fixed; width:924px; border-top:1px solid #eee; padding:10px; font:10px Arial, Helvetica; }
+#rodape #copy{ float:left;}
+#rodape #credito{ float:right; text-align:right;}
+#rodape #credito span{ color:#C00;}
