@@ -75,7 +75,7 @@ require_once "config-local.php";
 
     <div id="rodape">
     	<p id="copy">© Copyright 2012 - <strong>703 - The path of the Monkeys</strong></p>
-    	<p id="credito"><span>WEB </span>Pipo Bizelli <strong> | </strong><span>Desenhos </span>Francesco</p>
+    	<p id="credito"><span>WEB </span>• Pipo Bizelli • Renatodex<strong>  | </strong><span>Desenhos </span>• LoboX</p>
     </div>
 </div>
 <script>
